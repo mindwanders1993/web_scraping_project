@@ -2,6 +2,8 @@
 
 Scrape data from https://www.hubertiming.com/results/2022Lilac.
 
+Preview Notebook here: [Preview](https://nbviewer.org/github/mindwanders1993/web_scraping_project/blob/main/scrape_lilac10k.ipynb)
+
 # Web Scraping with Beautiful Soup
 * Data extraction from the web
 * Data manipulation and cleaning
